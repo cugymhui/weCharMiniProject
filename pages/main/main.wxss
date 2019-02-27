@@ -1,0 +1,4 @@
+/* pages/main/main.wxss */
+.main-view{
+  margin-top: 100px
+}
